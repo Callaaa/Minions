@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0903FB0-A688-47F9-918B-CDD48C60AEB1}|Minions\\Minions.csproj|c:\\users\\students-1212-2\\desktop\\gp\\minions\\minions\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0903FB0-A688-47F9-918B-CDD48C60AEB1}|Minions\\Minions.csproj|solutionrelative:minions\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0903FB0-A688-47F9-918B-CDD48C60AEB1}|Minions\\Minions.csproj|c:\\users\\students-1212-2\\desktop\\gp\\minions\\minions\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0903FB0-A688-47F9-918B-CDD48C60AEB1}|Minions\\Minions.csproj|solutionrelative:minions\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0903FB0-A688-47F9-918B-CDD48C60AEB1}|Minions\\Minions.csproj|c:\\users\\students-1212-2\\desktop\\gp\\minions\\minions\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0903FB0-A688-47F9-918B-CDD48C60AEB1}|Minions\\Minions.csproj|solutionrelative:minions\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\Minions\\Form1.cs",
+              "RelativeDocumentMoniker": "Minions\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\Minions\\Form1.cs",
+              "RelativeToolTip": "Minions\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:08:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboItem.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\Minions\\ComboItem.cs",
+              "RelativeDocumentMoniker": "Minions\\ComboItem.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\Minions\\ComboItem.cs",
+              "RelativeToolTip": "Minions\\ComboItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:31:05.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\Minions\\Form1.cs",
+              "RelativeDocumentMoniker": "Minions\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Minions\\Minions\\Form1.cs [Design]",
+              "RelativeToolTip": "Minions\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:05:35.391Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
